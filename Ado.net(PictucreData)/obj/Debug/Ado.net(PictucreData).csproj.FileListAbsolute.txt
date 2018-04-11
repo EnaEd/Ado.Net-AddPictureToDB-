@@ -1,0 +1,10 @@
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\bin\Debug\Ado.net(PictucreData).exe.config
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\bin\Debug\Ado.net(PictucreData).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\bin\Debug\Ado.net(PictucreData).pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\obj\Debug\Ado.net(PictucreData).csprojResolveAssemblyReference.cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\obj\Debug\Ado.net_PictucreData_.Form1.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\obj\Debug\Ado.net_PictucreData_.Properties.Resources.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\obj\Debug\Ado.net(PictucreData).csproj.GenerateResource.Cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\obj\Debug\Ado.net(PictucreData).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\obj\Debug\Ado.net(PictucreData).pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\Ado.net(PictucreData)\Ado.net(PictucreData)\obj\Debug\Ado.net_PictucreData_.Form2.resources
